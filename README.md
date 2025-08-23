@@ -1,4 +1,5 @@
 ## About Me:
+Hey I am DunkleEnte a 14 year-old Developer based in Germany. 
 
 <!--
 **DunkleEnte/DunkleEnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
