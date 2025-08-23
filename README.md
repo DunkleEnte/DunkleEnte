@@ -2,18 +2,15 @@
 Hey I am DunkleEnte a 14 year-old Developer based in Germany. In my free time, I usually develop Minecraft Servers and create stuff arround Minecraft such as Plugins. If you are interested in hiring me, then get in touch with me on Discord.
 
 **DISCORD** .dunkleente
+---
 
-<!--
-**DunkleEnte/DunkleEnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I speak or tools I use:
+<!-- Nutze Emojis oder Shields für Java, Python etc. -->
+![Java](... link zu Icon ...)
+![Python](...)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dein-username&theme=default)
