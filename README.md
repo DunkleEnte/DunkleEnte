@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>Hey I am DunkleEnte a 15 year-old Developer based in Germany. In my free time, I usually develop Minecraft Servers, create Websites for my customers and overall stuff arround Discord/Minecraft. If you are interested in hiring me, then get in touch with me on Discord.<br><br>**DISCORD** .dunkleente
+Hey I am DunkleEnte a 15 year-old Developer based in Germany. In my free time, I usually develop Minecraft Servers, create Websites for my customers and overall stuff arround Discord/Minecraft. If you are interested in hiring me, then get in touch with me on Discord.<br><br>**DISCORD** .dunkleente
 
 
 # 💻 Tech Stack:
