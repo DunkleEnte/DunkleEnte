@@ -20,7 +20,7 @@ const skillCategories = [
     },
     {
         name: "Hosting",
-        items: ["Vercel", "Netlify"]
+        items: ["Netlify", "Vercel"]
     }
 ];
 
