@@ -18,6 +18,10 @@ const skillCategories = [
         name: "Architecture",
         items: ["Paper", "Velocity", "BungeeCord", "Spigot"],
     },
+    {
+        name: "Hosting",
+        items: ["Vercel", "Netlify"]
+    }
 ];
 
 function SkillColumn({ category, delay, isLast }) {
